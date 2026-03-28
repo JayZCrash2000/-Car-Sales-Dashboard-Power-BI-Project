@@ -108,4 +108,20 @@ The dashboard provides actionable insights into sales trends, pricing, and perfo
 
 ---
 
-## 📂 Project Structure
+---
+
+## 📌 Future Improvements
+
+- Add forecasting models  
+- Integrate real-time data  
+- Enhance drill-through analysis  
+- Deploy on Power BI Service  
+
+---
+
+## 📜 License
+This project is for academic and learning purposes.
+
+## Requirements
+Power BI Desktop
+Microsoft Excel / CSV support
